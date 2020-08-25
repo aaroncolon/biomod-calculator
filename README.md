@@ -1,6 +1,6 @@
-# empty-project
+# Biomod Calculator (React)
 
-Empty project.
+Simple proof of concept calculator in React
 
 ## Building and running on localhost
 
